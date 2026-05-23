@@ -1,0 +1,55 @@
+aid: sonantic
+name: Sonantic
+description: >-
+  Sonantic was a London-based AI voice company that built hyper-realistic,
+  emotionally expressive text-to-speech models for entertainment, gaming, and
+  film. The company is best known for recreating Val Kilmer's voice for Top
+  Gun: Maverick after he lost his speaking voice to throat cancer. Spotify
+  acquired Sonantic in June 2022 for a reported 93 million euros, and the
+  underlying TTS technology has since been folded into Spotify products,
+  most visibly the Spotify AI DJ feature launched in 2023. As of 2026,
+  Sonantic no longer operates as a standalone product or public API. This
+  apis.yml entry exists as a historical and archival record of the company,
+  its technology, and its acquisition.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Voice
+  - Text to Speech
+  - Emotive AI
+  - Acquired
+  - Spotify
+  - Audio
+  - Entertainment
+  - Historical
+url: https://raw.githubusercontent.com/api-evangelist/sonantic/refs/heads/main/apis.yml
+created: '2026-05-23'
+modified: '2026-05-23'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.sonantic.io
+  - type: AcquirerWebsite
+    url: https://www.spotify.com
+  - type: AcquisitionAnnouncement
+    url: https://newsroom.spotify.com/2022-06-13/spotify-to-acquire-sonantic-an-ai-voice-platform/
+  - type: Press
+    url: https://www.pymnts.com/acquisitions/2022/spotify-to-acquire-ai-text-to-voice-platform-sonantic/
+  - type: Press
+    url: https://www.subscriptioninsider.com/topics/mergers-and-acquisitions/spotify-acquires-ai-voice-platform-sonantic
+  - type: PostAcquisitionProduct
+    url: https://newsroom.spotify.com/2023-02-22/spotify-debuts-a-new-ai-dj-right-in-your-pocket/
+  - type: PatentAnalysis
+    url: https://www.greyb.com/blog/how-spotifys-e93m-sonantic-deal-strengthened-its-ai-voice-ip-portfolio/
+  - type: CaseStudyValKilmer
+    url: https://www.youtube.com/watch?v=Ye_tIyt5RC8
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/sonantic
+  - type: Crunchbase
+    url: https://www.crunchbase.com/organization/sonantic
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
