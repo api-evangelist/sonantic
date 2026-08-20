@@ -28,6 +28,15 @@ access: 3rd-Party
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/sonantic.png
 tags:
   - Voice
+  - Text-to-Speech
+  - Emotive AI
+  - Acquired
+  - Spotify
+  - Audio
+  - Entertainment
+  - Historical
+tags_raw:
+  - Voice
   - Text to Speech
   - Emotive AI
   - Acquired
